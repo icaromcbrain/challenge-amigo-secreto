@@ -42,6 +42,7 @@ Este projeto é um exercício pessoal para meu portfólio. No momento, não esto
 ## Autor e Créditos
 
 
-Este projeto foi desenvolvido por **[Ícaro](https://github.com/Seu-Usuario)** como parte do programa de formação **ONE (Oracle Next Education)**, em parceria com a **Alura**.
+Este projeto foi desenvolvido por **[Ícaro](https://github.com/icaromcbrain/challenge-amigo-secreto)** como parte do programa de formação **ONE (Oracle Next Education)**, em parceria com a **Alura**.
+
 
 
