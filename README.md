@@ -24,7 +24,7 @@ Para usar o aplicativo, siga os passos abaixo:
 ## **Acesse o Projeto**
 O Amigo Secreto não precisa ser instalado, basta acessar o link abaixo:
 
-[Amigo Secreto]((https://amigosecreto-lyart.vercel.app/))
+[Amigo Secreto](https://amigosecreto-lyart.vercel.app/)
 
 
 ## **Tecnologias Usadas**
@@ -43,4 +43,5 @@ Este projeto é um exercício pessoal para meu portfólio. No momento, não esto
 
 
 Este projeto foi desenvolvido por **[Ícaro](https://github.com/Seu-Usuario)** como parte do programa de formação **ONE (Oracle Next Education)**, em parceria com a **Alura**.
+
 
